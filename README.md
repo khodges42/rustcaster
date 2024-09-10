@@ -74,3 +74,9 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Se
 - I used a bunch of stuff from [this](https://bheisler.github.io/post/writing-raytracer-in-rust-part-1/) tutorial
 - Shouts to ChatGPT for giving me the math parts and the readme and the boilerplate code
 - The terminal rendering and input handling are facilitated by the `crossterm` crate.
+
+## Stuff I learned
+
+- The level of simplicity here of calculating distance to the wall based on the Y in the render loop and then determining floor/ceiling is really clever
+- (I say that because I didn't come up with it)
+- Had I approached this without guides/chatgpt/etc, I would have probaby way overengineered this, it seems like this code is way too simple to work
