@@ -1,17 +1,12 @@
 # K's Rust Terminal Raycaster Thingy
 
-This project implements a simple raycasting engine in Rust, demonstrating basic 3D rendering techniques in a terminal environment. The engine is capable of rendering a map with walls and floors, providing a rudimentary first-person perspective view.
+Wanted to learn about raycasters, so I cobbled together a bunch of techniques I found from a few sources into a really simple example of raycasting. 
 
-## Features
-
-- **Raycasting Engine:** Renders a map using basic raycasting techniques.
-- **Terminal-Based Rendering:** Displays the map in the terminal, simulating a 3D perspective.
-- **Map Generation:** Includes a Python script to generate random map files.
 
 ## Requirements
 
-- **Rust:** Make sure you have Rust installed. You can install it from [rust-lang.org](https://www.rust-lang.org/tools/install).
-- **Python:** For generating maps, you'll need Python. Python 3 is recommended.
+- **Rust:** It's in the name
+- **Python:** For generating maps, you'll need Python.
 
 ## Getting Started
 
